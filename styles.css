@@ -1,0 +1,21 @@
+.display-3 {
+    align-items: center;
+    background-color: #fff4fa;
+    padding: 20px 20px 20px 20px;
+    color: black;
+    text-align: center;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    box-sizing: border-box; 
+    background-color: #fff4fa;
+    padding: 20px;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+}
